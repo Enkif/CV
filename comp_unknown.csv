@@ -1,0 +1,4 @@
+vehicle_id,chip_id,comp_function
+1,C1-7,Possible memory chip
+1,C1-9,Possible power management
+1,C2-2,Possible EEPROM

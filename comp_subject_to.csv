@@ -1,0 +1,6 @@
+vehicle_id,chip_id,comp_function,comp_manufacturer,comp_manufact_hq
+1,C2-1,LTE Module,Telit Cinterion,"Irvine, California"
+1,C2-1-3,LTE/GPS RF Transceiver,Qualcomm,"San Diego, California"
+1,C2-1-4,LTE Modem,Qualcomm,"San Diego, California"
+1,C2-18,Communication Module,Murata Manufacturing Co.,"Nagaoka Kyo, Japan"
+1,C2-18-1,Dual-Band Transceiver,Marvell Technologies,"Wilmington, Delaware"
